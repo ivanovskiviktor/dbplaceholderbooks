@@ -1,0 +1,84 @@
+{
+  "books": [
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publicationYear": 1960,
+    "ISBN": "978-0-06-112008-4"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publicationYear": 1949,
+    "ISBN": "978-0-452-28423-4"
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "publicationYear": 1813,
+    "ISBN": "978-0-19-953556-9"
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "publicationYear": 1925,
+    "ISBN": "978-0-7432-7356-5"
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationYear": 1937,
+    "ISBN": "978-0-618-00221-3"
+  },
+  {
+    "id": 6,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "publicationYear": 1851,
+    "ISBN": "978-0-14-243724-7"
+  },
+  {
+    "id": 7,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical",
+    "publicationYear": 1869,
+    "ISBN": "978-0-19-923276-5"
+  },
+  {
+    "id": 8,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publicationYear": 1951,
+    "ISBN": "978-0-316-76948-0"
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationYear": 1954,
+    "ISBN": "978-0-618-00222-0"
+  },
+  {
+    "id": 10,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Philosophical",
+    "publicationYear": 1866,
+    "ISBN": "978-0-14-044913-6"
+  }
+]
+}
